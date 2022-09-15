@@ -1,0 +1,22 @@
+footer{
+    background-color: #363535;
+    padding: 20px;
+    margin-top: 20px;
+}
+
+#footerHeading{
+    color: rgb(221, 217, 217);
+    font-size: 1.5em;
+    font-weight: 600;
+    margin-bottom: 1em;
+    text-transform: capitalize;
+    text-align: center;
+}
+
+p{
+    color: rgb(221, 217, 217);
+    font-size: 1em;
+    font-weight: 400;
+    margin-bottom: 1em;
+    text-align: center;
+}
